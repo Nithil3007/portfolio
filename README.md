@@ -10,8 +10,8 @@ College of Engineering, Guindy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ## Work Experience
 
-### Data Science Intern
-###  Shiga Trust
+#### Data Science Intern
+####  Shiga Trust
 
   - Traffic Sign Classification
 
@@ -21,6 +21,6 @@ College of Engineering, Guindy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   
 ## Projects
 
-### InceptionResnet V1 model to classify Retinal OCT images
+#### InceptionResnet V1 model to classify Retinal OCT images
 
-### SciBert for HEPTH dataset
+#### SciBert for HEPTH dataset
