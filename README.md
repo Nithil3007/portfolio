@@ -7,8 +7,7 @@ University at Buffalo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 ## Work Experience
 
-#### Data Science Intern
-####  Shiga Trust
+#### Data Science Intern @ Shiga Trust
 
 
 - [Traffic Sign Classification](https://github.com/Nithil3007/Shiga-Internship/blob/main/Traffic%20Sign%20Classfication.ipynb)
