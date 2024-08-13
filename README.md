@@ -1,16 +1,19 @@
-### Graduate Student
+# Graduate Student
 
 ## Education
 
-- MS in Data Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University at Buffalo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025
+#### Master of Science&nbsp;- Data Science
+University at Buffalo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025
 
-- BE in Computer Science and Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anna University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
+#### Bachelor of Engineering&nbsp; - Computer Science and Engineering
+College of Engineering, Guindy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
 
 ## Work Experience
 
-# Data Science Intern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shiga Trust
+### Data Science Intern
+###  Shiga Trust
 
-- Traffic Sign Classification
+  - Traffic Sign Classification
 
 - Store Sales - Time Series Forecasting
 
@@ -18,6 +21,6 @@
   
 ## Projects
 
-# InceptionResnet V1 model to classify Retinal OCT images
+### InceptionResnet V1 model to classify Retinal OCT images
 
-# SciBert for HEPTH dataset
+### SciBert for HEPTH dataset
