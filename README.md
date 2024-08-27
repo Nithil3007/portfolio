@@ -9,6 +9,8 @@ University at Buffalo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 #### Data Science Intern @ Shiga Trust
 
+Projects
+
 
 - [Traffic Sign Classification](https://github.com/Nithil3007/Shiga-Internship/blob/main/Traffic%20Sign%20Classfication.ipynb)
 
@@ -18,30 +20,30 @@ University at Buffalo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
   
 ## Key Projects
 
-#### [InceptionResnet V1 model to classify Retinal OCT images](https://github.com/Nithil3007/InceptionResnet-V1-and-ElasticNetAttack)
+- #### [InceptionResnet V1 model to classify Retinal OCT images](https://github.com/Nithil3007/InceptionResnet-V1-and-ElasticNetAttack)
 
-#### [SciBert for HEPTH dataset](https://github.com/Nithil3007/SciBERT-for-HEP-TH-dataset)
+- #### [SciBert for HEPTH dataset](https://github.com/Nithil3007/SciBERT-for-HEP-TH-dataset)
 
 ## ML 
 
-#### Bank Marketing
+- [Bank Marketing](https://github.com/Nithil3007/ML/tree/main/Bank%20Marketing)
 
-#### Loan Approval
+- [Loan Approval](https://github.com/Nithil3007/ML/tree/main/Loan%20Approval)
 
-#### Customer Churn
+- [Customer Churn](https://github.com/Nithil3007/ML/tree/main/CUSTOMER%20CHURN)
 
-#### Walmart Sales Prediction and Analysis
+- #### Walmart Sales Prediction and Analysis
 
-#### Laptop Recommendation System
+- [Laptop Recommendation System](https://github.com/Nithil3007/ML/tree/main/LAPTOP%20RECOMMENDATION)
 
 ## NLP
 
-#### Consumer Finance Complaints
+- #### Consumer Finance Complaints
 
-#### Job Search Optimization
+- [Job Search Optimization](https://github.com/Nithil3007/NLP/tree/main/JOB%20SEARCH%20OPTIMIZATION)
 
 ## Data Analytics
 
-#### Fifa 18 - Building a football team with a budget constraint
+- [Fifa 18 - Building a football team with a budget constraint](https://github.com/Nithil3007/Tableau/tree/main/FIFA%2018)
 
-#### Covid 19 Surveillence - Analytics using Tableau
+- #### Covid 19 Surveillance - Analytics using Tableau
