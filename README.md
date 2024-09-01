@@ -20,7 +20,7 @@ Projects
   
 ## Key Projects
 
-- #### [InceptionResnet V1 model to classify Retinal OCT images](https://github.com/Nithil3007/InceptionResnet-V1-and-ElasticNetAttack/actions/runs/10656967073)
+- #### [InceptionResnet V1 model to classify Retinal OCT images](https://nithil3007.github.io/InceptionResnet-V1-and-ElasticNetAttack/)
 
 - #### [SciBert for HEPTH dataset](https://github.com/Nithil3007/SciBERT-for-HEP-TH-dataset)
 
