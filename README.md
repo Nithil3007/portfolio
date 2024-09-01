@@ -22,7 +22,7 @@ Projects
 
 - #### [InceptionResnet V1 model to classify Retinal OCT images](https://nithil3007.github.io/InceptionResnet-V1-and-ElasticNetAttack/)
 
-- #### [SciBert for HEPTH dataset](https://github.com/Nithil3007/SciBERT-for-HEP-TH-dataset)
+- #### [SciBert for HEPTH dataset](https://nithil3007.github.io/SciBERT-for-HEP-TH-dataset/)
 
 ## ML 
 
