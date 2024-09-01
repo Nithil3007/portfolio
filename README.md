@@ -22,8 +22,6 @@ Projects
 
 - #### [InceptionResnet V1 model to classify Retinal OCT images](https://nithil3007.github.io/InceptionResnet-V1-and-ElasticNetAttack/)
 
-- #### SciBert for HEPTH dataset
-
 ## ML 
 
 - [Bank Marketing](https://github.com/Nithil3007/ML/tree/main/Bank%20Marketing)
