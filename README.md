@@ -13,6 +13,6 @@ University at Buffalo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 - #### Consumer Finance Complaints
 
-- #### [Job Search Optimization](https://github.com/Nithil3007/NLP/tree/main/JOB%20SEARCH%20OPTIMIZATION)
+- #### [Keyword Analysis for Job Search](https://github.com/Nithil3007/Keyword-Analysis-for-Job-Search-/)
 
 - #### Sentiment Analysis on Twitter Tweets and Reddit Posts
