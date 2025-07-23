@@ -2,18 +2,18 @@
 
 ## About
 
-I hold a Bachelor's degree in Computer Science from the College of Engineering, Guindy (CEG), where I developed a strong foundation in system design, DSA, SQL, and object-oriented programming. My interest in AI and Machine Learning began in early 2022, leading me to explore the field through a range of hands-on projects involving big data, image classification, adversarial networks, social network analysis, and NLP. I gained experience working with frameworks like PyTorch, TensorFlow, and Hugging Face models.
+I’m a Data Science graduate from the University at Buffalo with a Bachelor's in Computer Science from CEG. My core skills include Python, SQL, PyTorch, TensorFlow, Hugging Face, LangChain, and cloud platforms like AWS. I have experience in building ML pipelines, deploying models, managing databases (RDBMS, Neo4j, Milvus), and working with ETL processes and data ingestion workflows.
 
-To deepen my knowledge, I pursued a Master’s in Data Science at the University at Buffalo (UB). There, I studied advanced topics such as Statistical Machine Learning, Time Series Modeling, Data Mining, and Data Engineering. I also learned to build and maintain ETL pipelines, manage relational and non-relational databases, design data models, and apply sampling techniques to maintain data quality. I implemented data ingestion workflows using Python, web APIs, and external RDBMS systems.
+My academic and project work spans statistical ML, time series, NLP, adversarial networks, and social network analysis. I’ve implemented CI/CD pipelines, provisioned compute resources, and worked on end-to-end MLOps systems. At UB, I interned post-graduation to deepen my expertise in backend deployment and AWS-managed services.
 
-My growing interest in production-grade ML systems led me to explore MLOps, where I gained familiarity with deploying and monitoring ML solutions, implementing CI/CD pipelines, and optimizing compute resources for performance. Post-graduation, I interned at UB to further enhance my skills in cloud infrastructure and deployment, managing AWS resources and backend services to improve system reliability.
-
-Currently, I’m interning at Techavidity, focusing on generative AI systems. I’m working on training GenAI models using LangChain and Cypher, integrating GraphRAGs to improve query performance and retrieval accuracy. I also work with graph databases like Neo4j and vector stores like Milvus to build efficient semantic search systems.
+Currently, I am interning at Techavidity, where I am focused on the cutting edge of generative AI. My work involves training generative models using LangChain and Cypher query language. I'm actively incorporating GraphRAGs (graph-based retrieval augmented generation) in place of traditional RAG architectures to enhance query relevance and performance. I'm also exploring graph databases such as Neo4j and vector databases like Milvus to improve knowledge retrieval and semantic search.
 
 ## Education
 
 #### Master of Science&nbsp;- Data Science
-University at Buffalo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025
+University at Buffalo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025
+
+College of Engineering, Guindy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
 
 ## Key Projects
 
