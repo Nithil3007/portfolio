@@ -1,5 +1,3 @@
-# Nithil Eshwar Mani
-
 ## About
 
 I’m a Data Science graduate from the University at Buffalo with a Bachelor's in Computer Science from CEG. My core skills include Python, SQL, PyTorch, TensorFlow, Hugging Face, LangChain, and cloud platforms like AWS. I have experience in building ML pipelines, deploying models, managing databases (RDBMS, Neo4j, Milvus), and working with ETL processes and data ingestion workflows.
