@@ -27,12 +27,25 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<style>
 			/* Force single-column layout for sections using the HTML5 UP "posts" grid */
-			.posts {
-				display: grid;
-				grid-template-columns: 1fr !important;
+			body #wrapper #main > .posts {
+				display: block !important; /* replace flex with block */
+				flex-wrap: nowrap !important;
+				justify-content: initial !important;
+				align-items: initial !important;
 			}
-			.posts > article {
-				width: 100% !important;
+			body #wrapper #main > .posts > * {
+				display: block !important;
+				width: 100% !important; /* override width:50% rules */
+				max-width: 100% !important;
+				flex: none !important;
+				box-sizing: border-box;
+			}
+			/* Neutralize alternating borders designed for 2-column layout */
+			body #wrapper #main > .posts > article {
+				border-left-width: 0 !important;
+				border-top-width: 0 !important;
+				border-right-width: 0 !important;
+				border-bottom-width: 0 !important;
 			}
 		</style>
 	</head>
