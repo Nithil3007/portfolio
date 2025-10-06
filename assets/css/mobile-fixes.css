@@ -1,0 +1,259 @@
+/* Mobile-specific optimizations for portfolio */
+
+/* Ensure main content is responsive on mobile */
+@media screen and (max-width: 980px) {
+    #main {
+        width: 100% !important;
+        margin: 0 auto !important;
+    }
+    
+    /* Fix negative margins that break layout */
+    div[style*="margin-top: -100px"],
+    div[style*="margin-top: -50px"],
+    div[style*="margin-top: 100px"] {
+        margin-top: 2rem !important;
+    }
+}
+
+/* Better background handling on mobile devices */
+@media screen and (max-width: 736px) {
+    #wrapper > .bg {
+        background-attachment: scroll !important;
+    }
+    
+    /* Improve text readability on mobile */
+    body {
+        font-size: 14pt;
+    }
+    
+    /* Better spacing for mobile - override inline styles */
+    #main > * {
+        padding: 2rem 1.5rem 0.1rem 1.5rem !important;
+    }
+    
+    /* Fix section spacing */
+    section {
+        margin-bottom: 2rem !important;
+    }
+    
+    /* Override fixed font sizes for better mobile readability */
+    p[style*="font-size: 24px"],
+    p[style*="font-size: 26px"],
+    li[style*="font-size: 24px"] {
+        font-size: 16px !important;
+        line-height: 1.6 !important;
+    }
+    
+    /* Fix header spacing */
+    div[style*="margin-top: -100px"] {
+        margin-top: 0 !important;
+        margin-bottom: 1rem !important;
+    }
+    
+    div[style*="margin-top: -50px"] {
+        margin-top: 0 !important;
+        margin-bottom: 2rem !important;
+    }
+    
+    div[style*="margin-top: 100px"] {
+        margin-top: 3rem !important;
+    }
+    
+    /* Better h2 sizing */
+    h2 {
+        font-size: 1.75rem !important;
+        margin-bottom: 1.5rem !important;
+    }
+}
+
+/* Extra small devices */
+@media screen and (max-width: 480px) {
+    #main {
+        width: 100% !important;
+    }
+    
+    /* Ensure images are responsive */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    /* Better font sizing for small screens */
+    p[style*="font-size"],
+    li[style*="font-size"] {
+        font-size: 14px !important;
+        line-height: 1.5 !important;
+    }
+    
+    h2 {
+        font-size: 1.5rem !important;
+    }
+    
+    /* Reduce excessive spacing on small screens */
+    #main > * {
+        padding: 1.5rem 1rem 0.1rem 1rem !important;
+    }
+    
+    /* Fix article spacing */
+    article {
+        margin-bottom: 2rem !important;
+    }
+    
+    div[style*="margin-top: 100px"] {
+        margin-top: 2rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+}
+
+/* Landscape mobile optimization */
+@media screen and (max-height: 500px) and (orientation: landscape) {
+    #intro {
+        min-height: 100vh;
+        padding: 2rem 2rem 1rem 2rem;
+    }
+}
+
+/* Fix list alignment on mobile */
+@media screen and (max-width: 736px) {
+    ul[style*="text-align: center"] {
+        text-align: left !important;
+        padding-left: 1.5rem !important;
+    }
+    
+    ul[style*="text-align: center"] li {
+        text-align: left !important;
+    }
+}
+
+/* Responsive classes for cleaner HTML */
+
+/* Desktop styles */
+.about-header-spacing {
+    width: 100%;
+    margin-top: -100px;
+    margin-bottom: 0;
+}
+
+.section-header-spacing {
+    margin-top: -50px;
+    margin-bottom: 100px;
+}
+
+.article-spacing {
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+.resume-header {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.body-text {
+    font-size: 24px;
+}
+
+.job-title {
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+.list-item-text {
+    text-align: justify;
+    font-size: 24px;
+}
+
+/* Tablet adjustments */
+@media screen and (max-width: 980px) {
+    .about-header-spacing {
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+    
+    .section-header-spacing {
+        margin-top: 0;
+        margin-bottom: 3rem;
+    }
+    
+    .article-spacing {
+        margin-top: 3rem;
+        margin-bottom: 1rem;
+    }
+    
+    .resume-header {
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+    }
+    
+    .body-text {
+        font-size: 18px;
+    }
+    
+    .job-title {
+        font-size: 20px;
+    }
+    
+    .list-item-text {
+        font-size: 18px;
+    }
+}
+
+/* Mobile adjustments */
+@media screen and (max-width: 736px) {
+    .about-header-spacing {
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+    
+    .section-header-spacing {
+        margin-top: 0;
+        margin-bottom: 2rem;
+    }
+    
+    .article-spacing {
+        margin-top: 2rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .resume-header {
+        margin-top: 2rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .body-text {
+        font-size: 16px;
+        line-height: 1.6;
+    }
+    
+    .job-title {
+        font-size: 18px;
+        margin-bottom: 0.5rem;
+    }
+    
+    .list-item-text {
+        text-align: left;
+        font-size: 16px;
+        line-height: 1.6;
+    }
+}
+
+/* Small mobile */
+@media screen and (max-width: 480px) {
+    .body-text {
+        font-size: 14px;
+    }
+    
+    .job-title {
+        font-size: 16px;
+    }
+    
+    .list-item-text {
+        font-size: 14px;
+    }
+    
+    .article-spacing {
+        margin-top: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+}
