@@ -53,14 +53,14 @@
 				
 					<nav id="nav">
 						<ul class="links">
-							<li><a style="text-align: center" href="#about">About</a></li>
-							<li><a style="text-align: center" href="#experience">Experience</a></li>
-							<li><a style="text-align: center" href="#projects">Projects</a></li>
-							<li><a style="text-align: center" href="#resume">Resume</a></li>
-							<li><a style="text-align: center" href="#contact">Contact</a></li>
+							<li><a href="#about">About</a></li>
+							<li><a href="#experience">Experience</a></li>
+							<li><a href="#projects">Projects</a></li>
+							<li><a href="#resume">Resume</a></li>
+							<li><a href="#contact">Contact</a></li>
 						</ul>
 						<ul class="icons">
-						<!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li> -->
 							<li><a href="https://github.com/nithil3007" class="icon brands fa-github"><span class="label">Github</span></a></li> 
 							<li><a href="https://www.linkedin.com/in/nithil-eshwar/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
@@ -72,35 +72,27 @@
 				 <div id="main" style="width: 150%; margin: 0 auto;">
 
 					<!-- Featured Post -->
-						
-						<section id="about">
+						<br>
 						<br>
 						<h2 style ="text-align: center">About me</h2>
 							<article class="post featured">
 								<header class="major">
 									<!-- <span class="date">April 25, 2017</span> -->
 									<div style="width: 100%; margin-top: -100px; margin-bottom: 0;">
-									<br>
-									<br>	
 									<p style="font-size: 24px;">I'm a graduate at the University at Buffalo and College of Engineering, Guindy (Anna University). I am a results-driven individual with a competitive spirit and a desire for continuous development, and I highly prefer environments where collaborative learning is valued.
 									</p>
 									<p style="font-size: 24px;">As a Software Engineer at a Healthcare AI startup, I work on building AI scribe applications. I spent my college years working on ML models, vector and relational databases, and full-stack development. Although my process of writing code has been changing constantly (especially with the growth of AI), I have always made sure that I am equipped with strong technical knowledge and focused on being thorough. With that being said, I looking for opportunities to build impactful software projects.
 									</p>
 									</div>
 								</header>
-								<div style="text-align: center;">
 								<a href="#"><img src="images/prof.jpg" alt="" /></a>
-								</div>
 								<!-- <ul class="actions special">
 									<li><a href="#" class="button large">Full Story</a></li>
 								</ul> -->
 							</article>
-						</section>
+
 						<!--Education -->
-						<section id="education">
-							<div style="margin-top: -50px; margin-bottom: 100px;">
-							<h2 style ="text-align: center">EDUCATION</h2>
-							</div>
+						<h2 style ="text-align: center">EDUCATION</h2>
 							<article>
 								<p style="font-size: 24px;"><b>Master of Science (Data Science) </b> @ University at Buffalo<br />
 								<b>Graduated : </b>January 2025 <br />
@@ -113,22 +105,17 @@
 								</p>
 								
 							</article>
-						</section>
+						
 
 						<!--Work ex -->
-						<section id="experience">
-						<div style="margin-top: -50px; margin-bottom: 100px;"> 	
 						<h2 style ="text-align: center">WORK EXPERIENCE</h2>
-						</div>
 							<!-- <section class="posts"> -->
 								<article>
-									<div style="margin-top: 100px; margin-bottom: 10px;">	
 									<header>
 										<span class="date">July 2025-Present</span>
 										<h2>Green Info Tech</h2>
-										<span class="location">Union City, CA - An S-corp based in California</span>
+										<span class="location">Union City, CA</span>
 									</header>
-									</div>
 									<p style="text-align: center;"><img src="images/medscribe.png" alt="" /></p>
 									<p style="font-size: 26px; margin-bottom: 0;"><b>Software Engineer Intern (Remote)</b></p>
 									<ul style="text-align: center;">
@@ -141,13 +128,11 @@
 									</ul>
 								</article>
 								<article>
-									<div style="margin-top: 100px; margin-bottom: 10px;">
 									<header>
 										<span class="date">June 2025-Present</span>
 										<h2>Techavidity</h2>
 										<span class="location">Frisco, Texas</span>
 									</header>
-									</div>
 									<p style="text-align: center;"><img src="images/techavidity.png" alt="" /></p>
 									<p style="font-size: 26px; margin-bottom: 0;"><b>Software Engineer Intern (Remote)</b></p>
 									<ul style="text-align: center;">
@@ -158,13 +143,11 @@
 									</ul>
 								</article>
 								<article>
-									<div style="margin-top: 100px; margin-bottom: 10px;">
 									<header>
 										<span class="date">February 2025 - May 2025</span>
 										<h2>University at Buffalo</h2>
 										<span class="location">Buffalo, New York</span>
 									</header>
-									</div>
 									<p style="text-align: center;"><img src="images/unionlabs.jpg" alt="" /></p>
 									<p style="font-size: 26px; margin-bottom: 0;"><b>Research Assistant</b></p>
 									<ul style="text-align: center;">
@@ -175,15 +158,12 @@
 										<li style="text-align: justify; font-size: 24px;">Improved user accessibility and responsiveness by 70% through optimized React.js front-end code.</li>
 									</ul>
 								</article>
-							</section>
+							<!-- </section> -->
 
 						<!-- Posts -->
-						<section id="projects">
-						<div style="margin-top: -50px; margin-bottom: 100px;">
 						<h2 style ="text-align: center">PROJECTS</h2>
-						</div>
+							
 								<article>
-									<div style="margin-top: 100px; margin-bottom: 10px;">
 									<header>
 										<a href="https://github.com/Nithil3007/Text-Classification/tree/main/SciBERT%20for%20HEP-TH%20dataset"><h2 class="project-link" style="color: #101095;">HEP-TH (High Energy Physics Theory) Paper Classification using Sci-BERT</h2></a>
 									</header>
@@ -192,18 +172,16 @@
 											text-decoration: underline black;
 										}
 									</style>
-								</div>
-								<p style="text-align: center;"><img src="images/High energy physics theory.jpg" alt="" /></p>
-								<ul style="text-align: center;">
-									<li style="text-align: justify; font-size: 24px;"><b>Tech stack:</b> Python, TensorFlow, SageMaker AI</li>
-									<li style="text-align: justify; font-size: 24px;">Classified over 30000 HEP-TH papers dating from 1991-2004 as influential and non-influential.</li>
+									<p style="text-align: center;"><img src="images/High energy physics theory.jpg" alt="" /></p>
+									<ul style="text-align: center;">
+										<li style="text-align: justify; font-size: 24px;"><b>Tech stack:</b> Python, TensorFlow, SageMaker AI</li>
+										<li style="text-align: justify; font-size: 24px;">Classified over 30000 HEP-TH papers dating from 1991-2004 as influential and non-influential.</li>
 										<li style="text-align: justify; font-size: 24px;">Used AWS SageMaker Blazing Text for classification and Sci-BERT word embedding for tokenising.</li>
 										<li style="text-align: justify; font-size: 24px;">Performed hyperparameter optimization using Amazon SageMaker AI Automatic Model Tuning.</li>
 										<li style="text-align: justify; font-size: 24px;">Obtained 75% accuracy after cross validation.</li>
 									</ul>
 								</article>
 								<article>
-									<div style="margin-top: 100px; margin-bottom: 10px;">
 									<header>
 										<a href="https://github.com/Nithil3007/Knowledge-Graph-for-Research-Papers"><h2 class="project-link" style="color: #101095;">Question-and-Answer Agent for Research Papers</h2></a>
 									</header>
@@ -212,7 +190,6 @@
 											text-decoration: underline black;
 										}
 									</style>
-									</div>
 									<p style="text-align: center;"><img src="images/qaagent.jpg" alt="" /></p>
 									<ul style="text-align: center;">
 										<li style="text-align: justify; font-size: 24px;"><b>Tech stack:</b> Langchain, Cypher, Streamlit</li>
@@ -222,7 +199,6 @@
 									</ul>
 								</article>
 								<article>
-									<div style="margin-top: 100px; margin-bottom: 10px;">
 									<header>
 										<!-- <span class="date">April 24, 2017</span> -->
 										<a href="https://github.com/Nithil3007/Image-Classification/tree/main/InceptionResnet-V1%20and%20ElasticNetAttack"><h2 class="project-link" style="color: #101095;">Elastic Net Attack and Inception-ResNet V1 for Retinal OCT images</h2></a>
@@ -232,7 +208,6 @@
 											}
 										</style>
 									</header>
-									</div>
 									<p style="text-align: center;"><img src="images/retinaloct.jpg" alt="" /></p>
 									<ul style="text-align: center;">
 										<li style="text-align: justify; font-size: 24px;"><b>Tech stack:</b> Python, Pytorch, SageMaker AI</li>
@@ -241,12 +216,10 @@
 										<li style="text-align: justify; font-size: 24px;">Trained the model to overcome Elastic-Net attack. Improved the accuracy on adversarial examples from 7.5% to 51.39%.</li>
 									</ul>
 								</article>
-							</section>
+							
 						<!--Part-time Experience -->
-						<section id="volunteering">
-							<div style="margin-top: -50px; margin-bottom: 100px;">
-							<h2 style ="text-align: center">Volunteering Experience</h2>
-							</div>
+						<h2 style ="text-align: center">Volunteering Experience</h2>
+							
 								<article>
 									<header>
 										<span class="date">Aug 2024 - December 2024</span>
@@ -259,13 +232,11 @@
 								</article>
 							
 						<!-- Footer -->
-							<section id="resume">
-								<h2 style="text-align: center; margin-top: 100px; margin-bottom: 30px;">Resume</h2>
-								<div style="text-align: center">
+							<footer>
+								<h2>Resume</h2>
 								<button class="w3-button w3-light-grey w3-padding-large w3-section" onclick="window.open('files/nithils_resume_ds.pdf')">
      							 <i class="fa fa-download"></i> Download Resume
    								 </button>
-								</div>
 								<!-- <div class="pagination">
 									<a href="#" class="page active">1</a>
 									<a href="#" class="page">2</a>
@@ -276,8 +247,8 @@
 									<a href="#" class="page">10</a>
 									<a href="#" class="next">Next</a>
 								</div> -->
-							</section>
-						</section>
+							</footer>
+
 					</div>
 
 				<!-- Footer -->
@@ -303,10 +274,10 @@
 								</ul>
 							</form>
 						</section> -->
-						<section id="contact">
+						<section class="split contact">
 							<section class="alt">
 								<h3>Phone</h3>
-								<p><a href="tel:+17162925911">(716) 292-5911</a></p>
+								<p><a href="#">(716) 292-5911</a></p>
 							</section>
 							<!-- <section>
 								<h3>Phone</h3>
@@ -314,7 +285,7 @@
 							</section> -->
 							<section>
 								<h3>Email</h3>
-								<p><a href="mailto:nithiliisd@gmail.com">nithiliisd@gmail.com</a></p>
+								<p><a href="#">nithiliisd@gmail.com</a></p>
 							</section>
 							<!-- <section>
 								<h3>Social</h3>
